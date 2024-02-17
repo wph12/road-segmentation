@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "mlproject2"
+version = "0.1.0"
+description = ""
+authors = ["Lemousehunter <60069055+lemousehunter@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.9,<3.12"
+tqdm = "^4.66.1"
+numpy = "^1.26.1"
+opencv-python = "^4.8.1.78"
+scikit-learn = "^1.3.2"
+scikit-image = "^0.22.0"
+kerascv = "^0.0.40"
+matplotlib = "^3.8.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+

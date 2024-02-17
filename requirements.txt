@@ -1,0 +1,8 @@
+numpy
+matplotlib
+keras
+tqdm
+tensorflow
+opencv-python 
+datetime
+scikit-image

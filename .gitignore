@@ -1,0 +1,13 @@
+
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/misc.xml
+.idea/MLProject2.iml
+.idea/modules.xml
+.idea/vcs.xml
+dataset/.DS_Store
+dataset/dataset/.DS_Store
+dataset/dataset/test/.DS_Store
+dataset/dataset/test/src/.DS_Store
+model/
+.DS_Store
