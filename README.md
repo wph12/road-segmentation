@@ -1,4 +1,4 @@
-This assignment is completed in fulfillment of CS-433 course requirements. The research paper completed for this project can be found here. 
+This project was completed with [@lemousehunter](https://github.com/lemousehunter) in fulfillment of EPFL's CS-433 course requirements. The research paper completed for this project can be found [here](https://github.com/wph12/road-segmentation/blob/13819bef8467e8e7acc9d10a78f85c3bafb67df0/CBAM2UNET_REPORT.pdf). 
 
 # Training and generating output maps #
 Training and generating output maps works best on a linux OS, since Windows does not pair well with GPUs. Our model is quite resource intensive, and can take a significant amount of time to train. 
