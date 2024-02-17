@@ -16,6 +16,6 @@ To quickly generate the submission.csv results according to our model output, ki
 3. Either download your chosen model (either https://github.com/CS-433/ml-project-2-theasiandudes/releases/download/model/unet.zip or https://github.com/CS-433/ml-project-2-theasiandudes/releases/download/model2/cbamUnet.zip), or train a model (as detailed above in Training and generating output maps) 
 4. In the root directory of this repo, run `pip install -r requirements.txt`. This assumes you are using python version 3.9 and above, and have pip installed.
 5. Download the released model and extract it into a models directory. The path should look something like this: model/CbamUnet_last
-6. cd into the src/inference/ directory.
+6. `cd` into the src/inference/ directory.
 7. Run `python run.py`. It should generate the needed submission csv file.
 
