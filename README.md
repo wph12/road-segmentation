@@ -1,4 +1,4 @@
-This project was completed with [@lemousehunter](https://github.com/lemousehunter) in fulfillment of EPFL's CS-433 course requirements. The research paper completed for this project can be found [here](https://github.com/wph12/road-segmentation/blob/13819bef8467e8e7acc9d10a78f85c3bafb67df0/CBAM2UNET_REPORT.pdf). 
+This project was completed with [@lemousehunter](https://github.com/lemousehunter) in fulfillment of EPFL's CS-433 course requirements. The report completed for this project can be found [here](https://github.com/wph12/road-segmentation/blob/13819bef8467e8e7acc9d10a78f85c3bafb67df0/CBAM2UNET_REPORT.pdf). 
 
 # Introduction #
 Road Segmentation is the process of identifying and delineating roads from given satellite imagery. In our project, we explored the addition of Convolutional Block Attention Modules (CBAM) to the U-Net for this task.
